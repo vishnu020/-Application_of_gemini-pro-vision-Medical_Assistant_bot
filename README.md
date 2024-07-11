@@ -1,1 +1,1 @@
-# Medical_Assistant_bot
+# Appplication of Gemini-pro-vision for medical bot
